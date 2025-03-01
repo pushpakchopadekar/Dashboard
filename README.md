@@ -1,11 +1,7 @@
-# React Dashboard
+# React Dashboard for CRM
 
 A responsive and interactive dashboard built using **React.js** during my internship . This project showcases my skills in frontend development, data visualization, and UI/UX design.
 
-## Live Demo
-
-Check out the live demo of the project: [Demo Link](#)  
-*(Replace with your actual deployment link, e.g., Netlify, Vercel, GitHub Pages)*
 
 ## Features
 
@@ -21,7 +17,7 @@ Check out the live demo of the project: [Demo Link](#)
 - **Styling**: [CSS]
 - **State Management**: 
 - **Charting**:
-- **Deployment**: [Netlify/Vercel/GitHub Pages]
+- **Deployment**: [Netlify]
 
 ## How to Run Locally
 
